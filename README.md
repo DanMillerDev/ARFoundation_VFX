@@ -1,6 +1,7 @@
 # ARFoundation_VFX
 AR Foundation setup for URP and VFX graph
 
+![gif](AR_VFX.gif)
 -------------------
 **Current Unity version: 2019.3.0b7**
 
