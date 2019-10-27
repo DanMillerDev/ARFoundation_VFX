@@ -1,0 +1,28 @@
+
+=== Tue Oct 15 14:51:02 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were removed:
+  com.unity.package-manager-ui@2.2.0
+
+=== Tue Oct 22 12:38:19 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.render-pipelines.universal from version 7.0.1 to 7.1.1
+  com.unity.test-framework from version 1.0.18 to 1.1.2
+  com.unity.timeline from version 1.1.0 to 1.2.2
+  com.unity.visualeffectgraph from version 7.0.1 to 7.1.1
+
+=== Sat Oct 26 13:20:16 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.test-framework from version 1.1.2 to 1.1.3
+  com.unity.timeline from version 1.2.2 to 1.2.4
