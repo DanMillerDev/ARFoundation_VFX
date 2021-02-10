@@ -6,8 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/VFX/ARVFXScene.unity
-    guid: 64fc70c33df17482dbaa130c0999652d
+    path: Assets/VFX/Scenes/AR_VFX_Placement.unity
+    guid: 6607b7693bc7acb4fbd0b03c8805446d
   m_configObjects:
-    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2d5fb8e61571b4e3897f221189089fd6,
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 13084f1323a345f43b2e0017b4788e49,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2a68c622527862948b93088e04215da2,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: fd30cf7030bd342e1b45a869462e0ee0,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 6f7fbab671a5848ddae17e25cb330888,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 548641ba2e111fb4bb0267a9742ca02c,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 761352fb24636a041a89328942e7203f,
       type: 2}
