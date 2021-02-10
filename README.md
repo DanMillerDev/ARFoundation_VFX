@@ -3,16 +3,16 @@ AR Foundation setup for URP and VFX graph
 
 ![gif](AR_VFX.gif)
 -------------------
-**Current Unity version: 2019.3.0b7**
+**Current Unity version: 2019.4.15**
 
 The main scene is ARVFX Scene
 
 This project is currently **ONLY** supported on ARKit because the VFX graph currently only works with Metal and Vulkan rendering. ARCore does not currently support Vulkan. Because of this I have added a small script ```VFXCompatibilityCheck.cs``` which checks the current ```SystemInfo.graphicsDeviceType``` and enables a small UI when not supported on a device or platform.
 
-Built using preview packages for ARFoundation and ARKit **package versions: 3.0.0 -preview.3**
+Built using preview packages for ARFoundation and ARKit **package versions: 4.1.0 -preview.5**
 
-Universal Render Pipeline **package version 7.1.1**  
-Visual Effect Graph **package version 7.1.1**
+Universal Render Pipeline **package version 7.3.1**  
+Visual Effect Graph **package version 7.3.1**
 
 -------------------
 
@@ -28,4 +28,4 @@ The sample VFX graph included in the project is from [Unity's VFX Samples](https
 
 
 
-The core of this project is built from AR Foundation samples https://github.com/Unity-Technologies/arfoundation-samples which is copyright © 2019 Unity Technologies ApS
+The core of this project is built from AR Foundation demos https://github.com/Unity-Technologies/arfoundation-demos which is copyright © 2019 Unity Technologies ApS
